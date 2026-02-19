@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
-import { Zap, Twitter, Instagram, Youtube, MessageCircle, Gift } from 'lucide-react';
+import { Zap, Twitter, Instagram, Youtube, MessageCircle, Gift, Image } from 'lucide-react';
 
 export function Footer() {
   const { t } = useTranslation();
@@ -13,11 +13,11 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-2">
             <Link to="/" className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
-                <Zap className="w-6 h-6 text-primary-foreground" />
+              <div className="w-12 h-12 rounded-xl  flex items-center justify-center glow-primary group-hover:scale-110 transition-transform">
+                <img src="/genfavicon-512.png" alt="Logo" />
               </div>
               <span className="font-display text-xl font-bold gradient-text">
-                PronoMaster
+                  SyntrixSports
               </span>
             </Link>
             <p className="text-muted-foreground mb-6 max-w-md">
@@ -69,7 +69,7 @@ export function Footer() {
         <div className="border-t border-border mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © {currentYear} PronoMaster. All rights reserved.
+              © {currentYear} SyntrixSports. All rights reserved.
             </p>
             <div className="flex items-center gap-2 px-4 py-2 rounded-lg bg-destructive/10 border border-destructive/20">
               <span className="text-xs text-destructive font-medium">

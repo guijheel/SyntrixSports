@@ -156,11 +156,11 @@ const resources = {
           title: "Conditions Générales d'Utilisation",
           section1: {
             title: "1. Objet",
-            content: "Les présentes conditions générales d'utilisation (CGU) régissent l'accès et l'utilisation de la plateforme PronoMaster. En accédant à ce site, vous acceptez sans réserve les présentes CGU."
+            content: "Les présentes conditions générales d'utilisation (CGU) régissent l'accès et l'utilisation de la plateforme SyntrixSports. En accédant à ce site, vous acceptez sans réserve les présentes CGU."
           },
           section2: {
             title: "2. Services proposés",
-            content: "PronoMaster propose des pronostics et analyses sportives à titre informatif. Ces informations ne constituent en aucun cas des conseils en investissement ou des incitations aux paris."
+            content: "SyntrixSports propose des pronostics et analyses sportives à titre informatif. Ces informations ne constituent en aucun cas des conseils en investissement ou des incitations aux paris."
           },
           section3: {
             title: "3. Inscription et compte utilisateur",
@@ -172,11 +172,11 @@ const resources = {
           },
           section5: {
             title: "5. Propriété intellectuelle",
-            content: "Tous les contenus présents sur PronoMaster sont protégés par le droit de la propriété intellectuelle. Toute reproduction sans autorisation est interdite."
+            content: "Tous les contenus présents sur SyntrixSports sont protégés par le droit de la propriété intellectuelle. Toute reproduction sans autorisation est interdite."
           },
           section6: {
             title: "6. Limitation de responsabilité",
-            content: "PronoMaster ne saurait être tenu responsable des pertes financières résultant de l'utilisation de ses pronostics. Les paris sportifs comportent des risques de perte."
+            content: "SyntrixSports ne saurait être tenu responsable des pertes financières résultant de l'utilisation de ses pronostics. Les paris sportifs comportent des risques de perte."
           },
           lastUpdate: "Dernière mise à jour"
         },
@@ -529,11 +529,11 @@ const resources = {
           title: "Terms of Service",
           section1: {
             title: "1. Purpose",
-            content: "These terms of service govern access to and use of the PronoMaster platform. By accessing this site, you unreservedly accept these terms."
+            content: "These terms of service govern access to and use of the SyntrixSports platform. By accessing this site, you unreservedly accept these terms."
           },
           section2: {
             title: "2. Services offered",
-            content: "PronoMaster provides sports predictions and analysis for informational purposes. This information does not constitute investment advice or betting incentives."
+            content: "SyntrixSports provides sports predictions and analysis for informational purposes. This information does not constitute investment advice or betting incentives."
           },
           section3: {
             title: "3. Registration and user account",
@@ -545,11 +545,11 @@ const resources = {
           },
           section5: {
             title: "5. Intellectual property",
-            content: "All content on PronoMaster is protected by intellectual property law. Any reproduction without authorization is prohibited."
+            content: "All content on SyntrixSports is protected by intellectual property law. Any reproduction without authorization is prohibited."
           },
           section6: {
             title: "6. Limitation of liability",
-            content: "PronoMaster cannot be held responsible for financial losses resulting from the use of its predictions. Sports betting involves risks of loss."
+            content: "SyntrixSports cannot be held responsible for financial losses resulting from the use of its predictions. Sports betting involves risks of loss."
           },
           lastUpdate: "Last updated"
         },
@@ -902,11 +902,11 @@ const resources = {
           title: "Términos de Servicio",
           section1: {
             title: "1. Objeto",
-            content: "Estos términos de servicio rigen el acceso y uso de la plataforma PronoMaster. Al acceder a este sitio, aceptas sin reservas estos términos."
+            content: "Estos términos de servicio rigen el acceso y uso de la plataforma SyntrixSports. Al acceder a este sitio, aceptas sin reservas estos términos."
           },
           section2: {
             title: "2. Servicios ofrecidos",
-            content: "PronoMaster proporciona pronósticos y análisis deportivos con fines informativos. Esta información no constituye asesoramiento de inversión ni incentivos para apostar."
+            content: "SyntrixSports proporciona pronósticos y análisis deportivos con fines informativos. Esta información no constituye asesoramiento de inversión ni incentivos para apostar."
           },
           section3: {
             title: "3. Registro y cuenta de usuario",
@@ -918,11 +918,11 @@ const resources = {
           },
           section5: {
             title: "5. Propiedad intelectual",
-            content: "Todo el contenido de PronoMaster está protegido por la ley de propiedad intelectual. Cualquier reproducción sin autorización está prohibida."
+            content: "Todo el contenido de SyntrixSports está protegido por la ley de propiedad intelectual. Cualquier reproducción sin autorización está prohibida."
           },
           section6: {
             title: "6. Limitación de responsabilidad",
-            content: "PronoMaster no puede ser responsable de las pérdidas financieras resultantes del uso de sus pronósticos. Las apuestas deportivas implican riesgos de pérdida."
+            content: "SyntrixSports no puede ser responsable de las pérdidas financieras resultantes del uso de sus pronósticos. Las apuestas deportivas implican riesgos de pérdida."
           },
           lastUpdate: "Última actualización"
         },

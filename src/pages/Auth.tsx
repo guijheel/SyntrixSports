@@ -95,7 +95,7 @@ const Auth = () => {
         if (error) {
           toast({ title: "Erreur de connexion", description: error.message.includes('Invalid login credentials') ? "Email ou mot de passe incorrect" : error.message, variant: "destructive" });
         } else {
-          toast({ title: "Connexion réussie", description: "Bienvenue sur PronoMaster !" });
+          toast({ title: "Connexion réussie", description: "Bienvenue sur SyntrixSports !" });
           navigate('/');
         }
       } else {
@@ -135,8 +135,8 @@ const Auth = () => {
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="max-w-md mx-auto">
             <div className="card-elevated p-8">
               <div className="text-center mb-8">
-                <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-primary flex items-center justify-center">
-                  <Zap className="w-8 h-8 text-primary-foreground" />
+                <div className="w-16 h-16 mx-auto mb-4 rounded-2xl flex items-center justify-center glow-primary group-hover:scale-110 transition-transform">
+                       <img src="/genfavicon-512.png" alt="Logo" />
                 </div>
                 <h1 className="font-display text-2xl font-bold mb-2">
                   {isLogin ? t('nav.login') : t('nav.signup')}

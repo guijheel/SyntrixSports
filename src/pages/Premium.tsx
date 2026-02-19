@@ -27,7 +27,7 @@ const Premium = () => {
     if (searchParams.get('success') === 'true') {
       toast({
         title: "Paiement réussi !",
-        description: "Bienvenue dans PronoMaster Premium ! Votre abonnement est maintenant actif.",
+        description: "Bienvenue dans SyntrixSports Premium ! Votre abonnement est maintenant actif.",
       });
       checkSubscription();
     } else if (searchParams.get('canceled') === 'true') {

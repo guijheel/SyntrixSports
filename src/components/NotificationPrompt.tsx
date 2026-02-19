@@ -38,7 +38,7 @@ export function NotificationPrompt() {
       });
       
       // Show a test notification
-      new Notification('PronoMaster', {
+      new Notification('SyntrixSports', {
         body: t('notifications.enabledDesc'),
         icon: '/favicon.ico',
       });

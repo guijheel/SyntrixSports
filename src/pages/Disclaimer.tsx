@@ -111,7 +111,7 @@ const Disclaimer = () => {
                       Cadre Légal
                     </h2>
                     <p className="text-muted-foreground mb-4">
-                      PronoMaster est un site d'information et de conseil sur les paris sportifs. 
+                      SyntrixSports est un site d'information et de conseil sur les paris sportifs. 
                       Nous ne sommes pas un opérateur de paris et ne collectons pas d'argent pour des paris.
                     </p>
                     <p className="text-muted-foreground mb-4">
@@ -120,7 +120,7 @@ const Disclaimer = () => {
                       dans votre pays de résidence.
                     </p>
                     <p className="text-muted-foreground">
-                      PronoMaster décline toute responsabilité quant aux pertes financières 
+                      SyntrixSports décline toute responsabilité quant aux pertes financières 
                       résultant de l'utilisation des informations fournies sur ce site.
                     </p>
                   </div>

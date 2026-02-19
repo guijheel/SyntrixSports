@@ -114,7 +114,7 @@ const Referral = () => {
     if (stats.referral_code && navigator.share) {
       const link = `${window.location.origin}/auth?ref=${stats.referral_code}`;
       try {
-        await navigator.share({ title: 'PronoMaster — Code parrainage', text: `Rejoins PronoMaster avec mon code ${stats.referral_code} et reçois 3 jours Premium offerts !`, url: link });
+        await navigator.share({ title: 'SyntrixSports — Code parrainage', text: `Rejoins SyntrixSports avec mon code ${stats.referral_code} et reçois 3 jours Premium offerts !`, url: link });
       } catch {}
     } else {
       copyReferralLink();

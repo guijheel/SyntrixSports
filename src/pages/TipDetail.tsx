@@ -10,7 +10,7 @@ const tipsData: Record<string, { title: string; content: string; category: strin
     title: 'Gérer sa Bankroll comme un Pro',
     category: 'Gestion',
     readTime: '8 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## Introduction
 
@@ -51,7 +51,7 @@ Une bonne gestion de bankroll vous permettra de survivre aux inévitables pério
     title: 'Comprendre les Value Bets',
     category: 'Stratégie',
     readTime: '6 min',
-    author: 'Analyste PronoMaster',
+    author: 'Analyste SyntrixSports',
     content: `
 ## Qu'est-ce qu'un Value Bet ?
 
@@ -134,7 +134,7 @@ Les statistiques avancées vous permettent de voir au-delà des résultats bruts
     title: 'Éviter les Erreurs de Débutant',
     category: 'Conseils',
     readTime: '5 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## Les pièges les plus courants
 
@@ -165,7 +165,7 @@ En évitant ces erreurs classiques, vous mettez toutes les chances de votre côt
     title: 'Le Live Betting Expliqué',
     category: 'Stratégie',
     readTime: '7 min',
-    author: 'Analyste PronoMaster',
+    author: 'Analyste SyntrixSports',
     content: `
 ## Qu'est-ce que le live betting ?
 
@@ -192,7 +192,7 @@ Le live betting peut être rentable si vous restez discipliné et que vous explo
     title: 'Psychologie du Parieur',
     category: 'Mindset',
     readTime: '9 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## L'importance du mental
 
@@ -219,7 +219,7 @@ Un mental d'acier et une prise de décision rationnelle sont des atouts majeurs 
     title: 'Comparer les Cotes Efficacement',
     category: 'Stratégie',
     readTime: '6 min',
-    author: 'Analyste PronoMaster',
+    author: 'Analyste SyntrixSports',
     content: `
 ## Pourquoi comparer ?
 
@@ -269,7 +269,7 @@ Le handicap asiatique est un outil puissant pour affiner vos paris et obtenir de
     title: 'Analyser les Formations Tactiques',
     category: 'Analyse',
     readTime: '11 min',
-    author: 'Analyste PronoMaster',
+    author: 'Analyste SyntrixSports',
     content: `
 ## L'impact des schémas tactiques
 
@@ -292,7 +292,7 @@ Une lecture tactique du match vous donne un avantage sur les parieurs qui ne reg
     title: 'Impact des Blessures sur les Paris',
     category: 'Analyse',
     readTime: '7 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## Pourquoi les absences comptent
 
@@ -319,7 +319,7 @@ Prendre en compte les blessures et les suspensions vous place devant ceux qui pa
     title: 'Météo et Paris Sportifs',
     category: 'Conseils',
     readTime: '5 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## Influence de la météo
 
@@ -342,7 +342,7 @@ Intégrer la météo dans votre analyse vous donne un angle supplémentaire pour
     title: 'Discipline et Patience : Les Clés du Succès',
     category: 'Mindset',
     readTime: '8 min',
-    author: 'Expert PronoMaster',
+    author: 'Expert SyntrixSports',
     content: `
 ## La régularité prime
 
