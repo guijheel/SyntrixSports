@@ -1,0 +1,101 @@
+{
+  "description": "Liens et identifiants des icônes par ligue/sport. Remplacer les 'emoji' par des URLs d'images si besoin.",
+  "sports": {
+    "football": {
+      "emoji": "⚽",
+      "iconUrl": "",
+      "label": "Football"
+    },
+    "basketball": {
+      "emoji": "🏀",
+      "iconUrl": "",
+      "label": "Basketball"
+    },
+    "tennis": {
+      "emoji": "🎾",
+      "iconUrl": "",
+      "label": "Tennis"
+    }
+  },
+  "leagues": {
+    "Champions League": {
+      "emoji": "🏆",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Ligue des champions": {
+      "emoji": "🏆",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Premier League": {
+      "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Ligue 1": {
+      "emoji": "🇫🇷",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "La Liga": {
+      "emoji": "🇪🇸",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Serie A": {
+      "emoji": "🇮🇹",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Bundesliga": {
+      "emoji": "🇩🇪",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Europa League": {
+      "emoji": "🌍",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Ligue 2": {
+      "emoji": "🇫🇷",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "Championship": {
+      "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "MLS": {
+      "emoji": "🇺🇸",
+      "iconUrl": "",
+      "sport": "football"
+    },
+    "NBA": {
+      "emoji": "🏀",
+      "iconUrl": "",
+      "sport": "basketball"
+    },
+    "ATP": {
+      "emoji": "🎾",
+      "iconUrl": "",
+      "sport": "tennis"
+    },
+    "WTA": {
+      "emoji": "🎾",
+      "iconUrl": "",
+      "sport": "tennis"
+    },
+    "Autre": {
+      "emoji": "⚽",
+      "iconUrl": "",
+      "sport": "football"
+    }
+  },
+  "fallback": {
+    "emoji": "⚽",
+    "iconUrl": ""
+  }
+}
